@@ -1,23 +1,41 @@
-# Recipe 1
 
-[Picture]
+# Recipe 1 : Kerala Beef Roast
 
+![enter image description here](https://www.nummyrecipes.com/wp-content/uploads/2018/03/beef_fry_vertical_cookd_800.jpg)
 
 | Difficulty | Cooking Time | Rating |
 | ------------- | ------------- |----|
-| Beginner  | 20 min  | 4* |
+| Moderate  | 50 min  | 5* |
 
 ## Ingredients
 
-1. RED
-2. GREEN
-3. BLUE
+1. Beef - Cut into small pieces (1 Kg)
+2. Eastern Beef Ulathu Masala
+3. Chilly Powder
+4. Turmeric Powder
+5. Garam Masala
+6. Coriander Powder
+7. Pepper Powder
+8. Lemon Juice
+9. Onion
+10. Tomato
+11. Green Chilly
+12. Garlic Cloves
+13.  Curry Leaf
+14. Ginger Garlic Paste
+15. Coconut Titbits
+16. Fennel Seeds
+17. Coconut Oil
 
 ## Preparation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Clean the beef with turmeric water and add turmeric powder, pepper powder, chilly powder, salt and lemon juice to the beef after draining the water. Keep the beef marinated for 15 minutes and cook it in a pressure cooker for 6 to 7 whistles.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Now add 5 tbsp of coconut oil to a Kadai and deep fry the coconut titbits and keep it aside. Add chopped onions, ginger garlic paste, green chillies and curry leafs one after the other and keep stirring.
+Once the onion becomes light brown colour add salt, coriander powder, turmeric powder, Beef ulathu masala, chilly powder and fry it until the raw smell of the masala is gone. After this you can add chopped tomatoes and smash it to make it a paste.
+
+Next add few fennel seeds and sprinkle some garam masala to the paste. Make sure you won't over fry the paste. You may now add the cooked beef to the Kadai and mix it with the paste. 
+
+Cook for another 10 to 15 minutes until the gravy is disappeared. Add the fried coconut titbits and curry leafs. Stir thoroughly so that the content won't stick with the Kadai. Once the beef becomes dark brown in colour you can turn off the fire. 
+
+Finger licking mouth watering Kerala beef roast is now ready. Serve it with soft and crispy layered Porotta. 
